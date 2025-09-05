@@ -1,6 +1,6 @@
-# MERN Finance Tracker
+# Finance Tracker
 
-A comprehensive personal finance tracking application built with the MERN stack (MySQL, Express.js, React, Node.js). This modern application provides complete financial management with authentication, transaction tracking, analytics, and intuitive data visualization.
+A comprehensive personal finance tracking application built with the MySQL, Express.js, React, Node.js. This modern application provides complete financial management with authentication, transaction tracking, analytics, and intuitive data visualization.
 
 ## 🌐 Live Demo
 
